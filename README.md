@@ -3,6 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansha1&label=Profile%20views&color=0e75b6&style=flat" alt="himansha" /> </p>
 
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **Information Technology**
 
 - 👨‍💻 All of my projects are available at **this Accoount**
@@ -14,6 +18,15 @@
 - 📄 Know about my experiences [..](..)
 
 - ⚡ Fun fact **..**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  </td>
+</tr>
+</table>
 
 ## 💻 Tech Stack
 - Languages
