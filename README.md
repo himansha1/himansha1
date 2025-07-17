@@ -40,8 +40,8 @@
 <br/>
 
 ## Github Activity ✔
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASHAN2021&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himansha1&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASHAN2021&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himansha1&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=ASHAN2021&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=himansha1&theme=soft-green)](https://git.io/streak-stats)
